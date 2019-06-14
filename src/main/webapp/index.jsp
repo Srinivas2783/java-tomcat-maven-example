@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>DockerDemo - SIT-13</h2>
+<h2>DockerDemo - Master</h2>
 </body>
 </html>
